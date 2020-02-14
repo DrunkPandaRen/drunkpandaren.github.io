@@ -1,0 +1,15 @@
+/*
+ * Copyright 2009-2018 Amadeus s.a.s.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+aria.core.DownloadMgr.loadFileContent("aria/resources/DateRes_mn_MN.js","Aria.resourcesDefinition({$classpath:\"aria.resources.DateRes\",$resources:{day:[\"\\u041d\\u044f\\u043c \\u0433\\u0430\\u0440\\u0430\\u0433\",\"\\u0414\\u0430\\u0432\\u0430\\u0430 \\u0433\\u0430\\u0440\\u0430\\u0433\",\"\\u041c\\u044f\\u0433\\u043c\\u0430\\u0440 \\u0433\\u0430\\u0440\\u0430\\u0433\",\"\\u041b\\u0445\\u0430\\u0433\\u0432\\u0430 \\u0433\\u0430\\u0440\\u0430\\u0433\",\"\\u041f\\u04af\\u0440\\u044d\\u0432 \\u0433\\u0430\\u0440\\u0430\\u0433\",\"\\u0411\\u0430\\u0430\\u0441\\u0430\\u043d \\u0433\\u0430\\u0440\\u0430\\u0433\",\"\\u0411\\u044f\\u043c\\u0431\\u0430 \\u0433\\u0430\\u0440\\u0430\\u0433\"],dayShort:[\"\\u041d\\u044f\\u043c\",\"\\u0414\\u0430\\u0432\",\"\\u041c\\u044f\\u0433\",\"\\u041b\\u0445\\u0430\",\"\\u041f\\u04af\",\"\\u0411\\u0430\",\"\\u0411\\u044f\"],month:[\"\\u041d\\u044d\\u0433\\u0434\\u04af\\u0433\\u044d\\u044d\\u0440 \\u0441\\u0430\\u0440\",\"\\u0425\\u043e\\u0451\\u0440\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\",\"\\u0413\\u0443\\u0440\\u0430\\u0432\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\",\"\\u0414\\u04e9\\u0440\\u04e9\\u0432\\u0434\\u04af\\u0433\\u044d\\u044d\\u0440 \\u0441\\u0430\\u0440\",\"\\u0422\\u0430\\u0432\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\",\"\\u0417\\u0443\\u0440\\u0433\\u0430\\u0430\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\",\"\\u0414\\u043e\\u043b\\u043e\\u043e\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\",\"\\u041d\\u0430\\u0439\\u043c\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\",\"\\u0415\\u0441\\u0434\\u04af\\u0433\\u044d\\u044d\\u0440 \\u0441\\u0430\\u0440\",\"\\u0410\\u0440\\u0430\\u0432\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\",\"\\u0410\\u0440\\u0432\\u0430\\u043d \\u043d\\u044d\\u0433\\u0434\\u04af\\u0433\\u044d\\u044d\\u0440 \\u0441\\u0430\\u0440\",\"\\u0410\\u0440\\u0432\\u0430\\u043d \\u0445\\u043e\\u0451\\u0440\\u0434\\u0443\\u0433\\u0430\\u0430\\u0440 \\u0441\\u0430\\u0440\"],monthShort:[\"1-\\u0440 \\u0441\\u0430\\u0440\",\"2-\\u0440 \\u0441\\u0430\\u0440\",\"3-\\u0440 \\u0441\\u0430\\u0440\",\"4-\\u0440 \\u0441\\u0430\\u0440\",\"5-\\u0440 \\u0441\\u0430\\u0440\",\"6-\\u0440 \\u0441\\u0430\\u0440\",\"7-\\u0440 \\u0441\\u0430\\u0440\",\"8-\\u0440 \\u0441\\u0430\\u0440\",\"9-\\u0440 \\u0441\\u0430\\u0440\",\"10-\\u0440 \\u0441\\u0430\\u0440\",\"11-\\u0440 \\u0441\\u0430\\u0440\",\"12-\\u0440 \\u0441\\u0430\\u0440\"]}});");
